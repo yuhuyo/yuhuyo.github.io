@@ -5,12 +5,12 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   margin: 0;
-  background-image: url(../img/hmt.png);
+ 
   
 }
 
-img {
-  width : 100px;
+body img {
+  width : 50px;
   opacity: 0.4;
   filter: alpha(opacity=40); /* For IE8 and earlier */  
 }
