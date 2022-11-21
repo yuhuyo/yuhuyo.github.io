@@ -5,12 +5,10 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   margin: 0;
- 
-  
 }
 
 body img {
-  width : 50px;
+  width : 100px;
   opacity: 0.4;
   filter: alpha(opacity=40); /* For IE8 and earlier */  
 }
