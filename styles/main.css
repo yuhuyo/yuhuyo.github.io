@@ -5,7 +5,9 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   margin: 0;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(hmt.png);
+  background-image: url(hmt.png);
+  img: opacity: 0.4;
+  filter: alpha(opacity=40); /* For IE8 and earlier */
 }
 
 .song {
