@@ -9,9 +9,9 @@ body {
 
 .gmbr img {
   position : absolute;
-  margin-top : 300px;
-  margin-left : 200px;
-  width : 150px;
+  margin-top : 250px;
+  margin-left : 150px;
+  width : 200px;
   opacity: 0.4;
   filter: alpha(opacity=40); /* For IE8 and earlier */  
 }
