@@ -11,7 +11,7 @@ body {
 .gmbr img {
   position : absolute;
   margin-top : 250px;
-  margin-left : 100px;
+  margin-left : 95px;
   width : 200px;
   opacity: 0.3;
   filter: alpha(opacity=40); /* For IE8 and earlier */  
