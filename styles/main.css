@@ -8,6 +8,7 @@ body {
 }
 
 .gmbr img {
+  position : absolute;
   margin-top : 300px;
   margin-left : 200px;
   width : 150px;
